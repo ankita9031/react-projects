@@ -1,0 +1,24 @@
+.form{
+    margin :10px;
+}
+.form input{
+    width: 85%;
+    padding: 10px;
+    margin:10px;
+    border-radius: 10px;
+    font-size: large;
+}
+
+.form button{
+    display: block;
+    background-color: #FFC069;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+    width:100px;
+    float: right;
+    font-weight: bold;
+    font-size: large;
+    margin-right: 20px;
+}

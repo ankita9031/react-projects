@@ -1,0 +1,13 @@
+.ToDoItem {
+    background-color: #FFC069;
+    color: white;
+    border : none;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px #A45D5D;
+    height: auto;
+    list-style: none;
+    width:90%;
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px;
+}
